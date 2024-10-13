@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\repos\max\java\console apps\InterestCalcJava\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3661727006.index
+2971834140.index
